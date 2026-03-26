@@ -26,8 +26,7 @@ The primary goal of this repository is to analyze the mechanics of unauthorized 
 
 ### 1. Clone the Repository
 ```bash
-[git clone [https://github.com/zegetzero/The_Wired.git](https://github.com/OliverCarrillo/The_Wired.git)
-cd The_Wired](https://github.com/zegetzero/The_Wired.git)
+git clone https://github.com/zegetzero/The_Wired.git
 ```
 ---
 ## 📜 Ethical Disclaimer
